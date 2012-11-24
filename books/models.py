@@ -7,7 +7,7 @@ class Level(models.Model):
     dra = models.CharField(max_length="10")
 
     def __unicode__(self):
-        return str(self)
+        return str(self.guided_reading)
 
 class Book(models.Model):
 
