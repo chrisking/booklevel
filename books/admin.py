@@ -10,3 +10,10 @@ class LevelAdmin(admin.ModelAdmin):
     list_filter = ('guided_reading','grade_level','dra',)
 
 admin.site.register(Level, LevelAdmin)
+
+class BookAdmin(admin.ModelAdmin):
+    list_display = ('title','level','grade_level','dra',)
+    search_fields = ('title',)
+    list_filter = ('title','level','grade_level','dra',)
+
+admin.site.register(Book, BookAdmin)

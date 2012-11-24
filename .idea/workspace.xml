@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d7c0639-882d-4de0-a5a8-130b1afbd8e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/booklevel/settings.py" afterPath="$PROJECT_DIR$/booklevel/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/booklevel/urls.py" afterPath="$PROJECT_DIR$/booklevel/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/books/admin.py" afterPath="$PROJECT_DIR$/books/admin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/books/models.py" afterPath="$PROJECT_DIR$/books/models.py" />
     </list>
@@ -30,16 +28,16 @@
           <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/books/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0">
+                <state line="17" column="0" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/books/admin.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="8" column="36" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+                <state line="14" column="54" selection-start="432" selection-end="432" vertical-scroll-proportion="0.3260274">
                   <folding />
                 </state>
               </provider>
@@ -54,10 +52,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/booklevel/urls.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="16" column="48" selection-start="603" selection-end="603" vertical-scroll-proportion="0.37260273">
+                <state line="16" column="48" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -85,10 +83,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/books/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="38" selection-start="300" selection-end="300" vertical-scroll-proportion="0.20958903">
+                <state line="16" column="65" selection-start="554" selection-end="554" vertical-scroll-proportion="0.37935844">
                   <folding />
                 </state>
               </provider>
@@ -110,10 +108,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/booklevel/local_settings.py" />
-        <option value="$PROJECT_DIR$/books/admin.py" />
-        <option value="$PROJECT_DIR$/books/models.py" />
         <option value="$PROJECT_DIR$/booklevel/settings.py" />
         <option value="$PROJECT_DIR$/booklevel/urls.py" />
+        <option value="$PROJECT_DIR$/books/admin.py" />
+        <option value="$PROJECT_DIR$/books/models.py" />
       </list>
     </option>
   </component>
@@ -420,20 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/books/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="36" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/booklevel/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="118" column="16" selection-start="4303" selection-end="4303" vertical-scroll-proportion="0.0">
@@ -443,7 +427,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/booklevel/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="48" selection-start="603" selection-end="603" vertical-scroll-proportion="0.37260273">
+        <state line="16" column="48" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="54" selection-start="432" selection-end="432" vertical-scroll-proportion="0.3260274">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="65" selection-start="554" selection-end="554" vertical-scroll-proportion="0.37935844">
           <folding />
         </state>
       </provider>
