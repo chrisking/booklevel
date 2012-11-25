@@ -15,5 +15,5 @@ class BookAdmin(admin.ModelAdmin):
     list_display = ('title','level','grade_level','dra',)
     search_fields = ('title',)
     list_filter = ('title','level','grade_level','dra',)
-
+    ordering = ['title']
 admin.site.register(Book, BookAdmin)
