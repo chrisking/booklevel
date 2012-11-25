@@ -115,6 +115,7 @@ INSTALLED_APPS = (
     'django.contrib.admindocs',
     #Local Apps
     'books',
+    'south',
 )
 
 # A sample logging configuration. The only tangible logging
