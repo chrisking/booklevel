@@ -145,3 +145,6 @@ LOGGING = {
         },
     }
 }
+
+#Admin title
+GRAPPELLI_ADMIN_TITLE = "BookLevel"
