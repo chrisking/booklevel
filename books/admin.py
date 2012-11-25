@@ -12,7 +12,7 @@ class LevelAdmin(admin.ModelAdmin):
 admin.site.register(Level, LevelAdmin)
 
 class BookAdmin(admin.ModelAdmin):
-    list_display = ('title','level','grade_level','dra',)
+    list_display = ('title','level','grade_level','dra','number_of_copies','number_available')
     search_fields = ('title',)
     list_filter = ('title','level','grade_level','dra',)
     ordering = ['title']
